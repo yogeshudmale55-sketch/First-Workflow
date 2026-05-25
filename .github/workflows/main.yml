@@ -7,7 +7,6 @@ on:
 jobs:
    Demo:
       runs-on:ubuntu-latest
-
   steps:
          -name:Greetings
           run:echo"Hello my first workflow"
